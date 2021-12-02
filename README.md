@@ -1,5 +1,10 @@
-https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/
+# ML & DL Hackathons
 
-**Evaluation Metric** - F1 Score
+This is a collection of all the hackathons that I have attended.  
 
-**Leaderboard Score** - 0.50369
+Each folder contains the following -  
+* **Jupyter Code**  
+* **Train and Test Dataset**  
+* **Link to the hackathon**  
+* **Evaluation Metric for the hackathon**  
+* **Leaderboard Score**  
