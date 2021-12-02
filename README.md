@@ -1,7 +1,11 @@
-# HR-Analytics-Prediction-
-This was a Problem I have seen in Analytics Vidhya, So, Here is my Approach following full data science lifecycle. 
-About the Problem:-  HR Analytics
-HR analytics is revolutionising the way human resources departments operate, leading to higher efficiency and better results overall. Human resources has been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Therefore, it is surprising that HR departments woke up to the utility of machine learning so late in the game. Here is an opportunity to try predictive analytics in identifying the employees most likely to get promoted.
+# ML & DL Hackathons  
+This is a collection of the hackathons I have attended.  
 
-There's always a room for improvment, so feel free to make a contribution. 
+Each folder corresponds to one hackathon and it contains the following things -  
+* **Jupyter Code**
+* **Train and Test Data**
+* **Link to the Competition**
+* **Evaluation Metric for the Challenge**
+* **Leader Board Score**
+* **Leader Board Rank**
 
